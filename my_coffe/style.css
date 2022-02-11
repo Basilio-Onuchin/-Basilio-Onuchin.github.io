@@ -1,0 +1,36 @@
+body, h1{
+margin:0px;
+}
+header{
+width:100%;
+height:100vh;
+background-image:url("https://www.barneo.ru/images/content/%D0%BA%D0%BE%D1%84%D0%B5%D0%B9%D0%BD%D1%8F1.jpg");
+background-size:cover;
+}
+h1{
+padding-top:20%;
+text-align:center;
+color:white;
+font-size:45px;
+}
+img{
+width:300px;
+height:200px;
+border-radius:50px;
+}
+main{
+background-color:Peru;
+margin:0px 0px;
+padding:10px;
+}
+.picture{
+width:300px;
+margin:auto;
+}
+.info{
+text-align:center;
+}
+a{
+color:white;
+text-decoration:none;
+}
